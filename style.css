@@ -1,0 +1,74 @@
+*{
+    border:1px solid White;
+}
+
+li 
+{
+    display: inline-block;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+#right{
+    float: right;
+    font-size:medium;
+}
+
+#left{
+    float: left;
+}
+.container{
+    margin: 180px auto;
+    text-align: center;
+    ;
+}
+
+#logo{
+    display: block;
+    margin:40px auto;
+    width: 35%;
+
+}
+
+#search{
+    display: block;
+    margin: 0px auto;
+    margin-bottom: 40px;
+    width: 50%;
+    border-radius: 10px;
+    height: 23px;
+    border:1px solid black;
+}
+
+.mic{
+    width: 16px;
+    height: 20px;
+    position: relative;
+    bottom: 65px;
+    left:292px
+}
+.icon{
+    width: 16px;
+    height: 20px;
+    position: relative;
+    bottom: 65px;
+    right: 70px;
+    
+}
+footer{
+    background-color: orange;
+}
+
+
+.footer-left{
+    float: left;
+    background-color:aqua    
+}
+.footer-right{
+    float:right;
+    background-color:aqua    
+    
+
+}
+
+
